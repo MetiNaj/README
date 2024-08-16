@@ -15,4 +15,8 @@ Although I still use **JavaScript** 💻 when necessary, **Python** has become m
 ### 📈 GitHub Stats:
 ![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdi180&show_icons=true&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahdi180&theme=highcontrast)
 
+
+
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mahdi-najari-918301221)
