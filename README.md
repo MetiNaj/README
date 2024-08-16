@@ -12,7 +12,7 @@ I'm excited to connect with like-minded developers 🤝 and continue growing and
 
 ### 🔗 Let's Connect:
 - [LinkedIn](https://www.linkedin.com/in/mahdi-najari-918301221)
-- [GitHub](https://github.com/Mahdi180/Mahdi180/edit/main/README.md)
+- [GitHub](https://github.com/MetiNaj/README/edit/main/README.md)
 - [Personal Resume](http://me.wpun.ir)
 
 ### 🌐 My Main Websites:
@@ -27,6 +27,6 @@ I'm excited to connect with like-minded developers 🤝 and continue growing and
 - **Tools:** WordPress, Git, VS Code, Node.js
 
 ### 📈 GitHub Stats:
-![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdi180&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mahdi180&theme=highcontrast)  
+![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MetiNaj&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MetiNaj&theme=highcontrast)  
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mahdi-najari-918301221)
