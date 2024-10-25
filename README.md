@@ -21,6 +21,7 @@ I'm excited to connect with like-minded developers 🤝 and continue growing and
 - [balotsepid.ir](http://balotsepid.ir)
 - [Selfx.shop](http://Selfx.shop)
 - [Selfx.shop/en](http://Selfx.shop/en)
+- [zexahost.com](https://zexahost.com)
 
 ### 💻 Tech Stack:
 - **Languages:** Python, JavaScript, HTML, CSS
