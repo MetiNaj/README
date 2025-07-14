@@ -11,7 +11,7 @@
 - 🎓 I'm an 18-year-old passionate developer from **Iran 🇮🇷**
 - 💻 Specialized in **Python**, **Linux**, and **Networking**
 - ⚙️ Focused on **automation**, **AI projects**, and **back-end development**
-- 🌐 Experience with **WordPress**, **Django**, **HTML/CSS/JS**, and **Dart**
+- 🌐 Experience with **WordPress**, **Django**, **HTML/CSS/JS**, **Dart**, and **Cloudflare**
 - 🤝 Love contributing to open-source and working on real-world projects
 - 🚀 Currently building smart tools, APIs, and machine vision systems
 
@@ -33,8 +33,9 @@
 
 ## 🧠 Languages & Tools
 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,linux,bash,js,html,css,dart,wordpress,git,vscode,figma,nodejs,anaconda,autocad,cloudflare,debian,gmail,mysql,ps,postman,sqlite,vim,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=python,django,linux,bash,js,html,css,dart,wordpress,git,vscode,figma,nodejs,arch,anaconda,autocad,cloudflare,debian,gmail,mysql,ps,postman,sqlite,vim,visualstudio,numpy,telegram,fastapi,pytorch,api" />
 </p>
 
 ---
