@@ -1,38 +1,40 @@
 <h1 align="center">Hi there, I'm Mahdi Najari 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Python+Developer+%F0%9F%90%8D;Web+Designer+%F0%9F%8C%90;Open+Source+Lover+%E2%9D%A4%EF%B8%8F;Always+Learning+%F0%9F%93%96" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&width=435&lines=Python+Developer+%F0%9F%90%8D;Linux+Power+User+%F0%9F%90%BE;Django+%26+Web+Backend+Wizard+%F0%9F%9A%80;Network+%26+Automation+Lover+%F0%9F%94%8C;Always+Learning+%F0%9F%93%96" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm an 18-year-old passionate developer from **Iran 🇮🇷**
-- 💡 Experienced in **WordPress**, **HTML/CSS**, and modern **JavaScript**
-- 🔥 Currently focused on **Python** for automation, AI, and back-end development
-- 🚀 Building real-world projects, APIs, and web tools
-- 🤝 Looking to collaborate with creative developers around the world
+- 🎓 I'm an 18-year-old passionate developer from **Iran 🇮🇷**
+- 💻 Specialized in **Python**, **Linux**, and **Networking**
+- ⚙️ Focused on **automation**, **AI projects**, and **back-end development**
+- 🌐 Experience with **WordPress**, **Django**, **HTML/CSS/JS**, and **Dart**
+- 🤝 Love contributing to open-source and working on real-world projects
+- 🚀 Currently building smart tools, APIs, and machine vision systems
 
 ---
 
 ## 🌐 My Websites
 
-| 🌍 Project / Site | 🔗 Link |
-|------------------|--------|
-| Personal Resume | [me.wpun.ir](http://me.wpun.ir) |
-| WP & Design Hub | [wpun.ir](http://wpun.ir) |
-| Email Tools | [imelo.ir](http://imelo.ir) |
-| Online Store | [selfx.shop](http://selfx.shop) |
-| Hosting Panel | [zexahost.com](https://zexahost.com) |
-| New Project | [meti.shop](http://meti.shop) |
+| 🌍 Project / Site      | 🔗 Link                         |
+|------------------------|---------------------------------|
+| Personal Resume        | [me.wpun.ir](http://me.wpun.ir) |
+| WP & Design Hub        | [wpun.ir](http://wpun.ir)       |
+| Email Tools            | [imelo.ir](http://imelo.ir)     |
+| Online Store           | [selfx.shop](http://selfx.shop) |
+| Hosting Panel          | [zexahost.com](https://zexahost.com) |
+| Personal Resume 2      | [Veksa.ir](http://veksa.ir)     |
+| Tools Shop             | [Toolly.ir](http://toolly.ir)   |
 
 ---
 
 ## 🧠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,wordpress,bootstrap,git,vscode,figma,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,django,linux,bash,js,html,css,dart,wordpress,git,vscode,figma,nodejs,anaconda,autocad,cloudflare,debian,gmail,mysql,ps,postman,sqlite,vim,visualstudio" />
 </p>
 
 ---
